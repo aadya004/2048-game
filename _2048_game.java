@@ -373,7 +373,7 @@ public class _2048_game
         }
     }
 
-    public static void main()
+    public static void main(String args[])
     {
         System.out.print("\f");
         Scanner sc=new Scanner(System.in);
